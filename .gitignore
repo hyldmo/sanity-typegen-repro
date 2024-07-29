@@ -1,0 +1,26 @@
+node_modules
+/.cache
+build
+dist
+public/build
+/.mf
+.env
+.shopify
+h2_deploy_log.json
+.version
+
+.DS_Store
+
+# Yarn 3 files
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+*.generated.d.ts
+*.generated.ts
+
+studio/schema.json

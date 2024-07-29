@@ -1,0 +1,4 @@
+{
+	"path": "./queries/sanity/*/**.ts",
+	"generates": "index.generated.ts"
+}
